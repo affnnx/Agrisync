@@ -131,12 +131,6 @@ Contributions to this project are welcome! To contribute, please follow these st
 All pull requests will be reviewed by the project maintainers. Constructive feedback and suggestions may be provided to further improve the contribution.
 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/charankannati"><img src=https://avatars.githubusercontent.com/u/124780754?v=4" width="100px;" alt=""/><br /><sub><b>Charan Kannati</b></sub></a><br /><a href="" title="">:new_moon_with_face:</a></td>
-  </tr>
- </table>
-
 ## Acknowledgments
 
 We would like to express our gratitude to the following resources, libraries, and individuals who have inspired or assisted us throughout the development of this project:
